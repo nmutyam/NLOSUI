@@ -3,7 +3,7 @@ const version = 2 + 1
 </script>
 <template>
   <div class="hello">
-    Hello Nuxt {{ version }}!
+    Hello Nuxt. This is the {{ version }}!
   </div>
 </template>
 <style scoped>
